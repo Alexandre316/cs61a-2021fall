@@ -1,0 +1,6 @@
+'balanced-correct', (0, 70)
+'totals_tree-correct', (512, 70)
+'has_path-correct', (1024, 70)
+'preorder-correct', (1536, 70)
+'total_weight-correct', (2048, 70)
+'replace_loki_at_leaf-correct', (2560, 70)
